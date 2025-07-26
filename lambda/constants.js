@@ -4,8 +4,8 @@ exports.audioData = [
 /** Example format
 exports.audioData = [
   {
-    title: 'Title',
-    url: 'https://domain.com/test.mp3',
+    title: 'On Sport',
+    url: 'https://carina.streamerr.co:2020/stream/OnSportFM',
   },
   {
     title: 'Title 2',
